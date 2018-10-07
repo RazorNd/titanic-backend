@@ -1,0 +1,14 @@
+POST http://razornd.ru:8082/api/random-forest/survived
+Content-Type: application/json
+
+{
+  "ticketClass": "THIRD",
+  "sex": "MALE",
+  "age": 39,
+  "sibsp": 1,
+  "parch": 5,
+  "fare": 31.275,
+  "portEmbarkation": "SOUTHAMPTON"
+}
+
+###
